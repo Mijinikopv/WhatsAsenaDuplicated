@@ -359,6 +359,7 @@
         },
         "ttp": {
             "TTP_DESC": "Yazıyı sade resme dönüştürür.",
+            "ATTP_DESC": "Yazıyı renkli stickera dönüştürür.",
             "NEED_WORD": "*Kelime Girmelisin!*"
         },
         "wallpaper": {
@@ -377,7 +378,8 @@
         "aiscanner": {
             "NOT_FOUND": "Aradığınız komuta benzer başka bir komut bulamadık..",
             "FOUND": "*Aradığınız komut bulunamadı, benzeyen komutlar:* \n 🔎 ```",
-            "SEARCHING": "🔎 Komut bulunamadı.. Benzer komutlar aranıyor.."
+            "SEARCHING": "🔎 Komut bulunamadı.. Benzer komutlar aranıyor..",
+            "NEW_UPDATE": "Bot için yeni güncelleme mevcut!"
         },
         "notes": {
             "NOTES_USAGE": "Varolan tüm notlarınızı gösterir.",
@@ -389,6 +391,21 @@
             "UNSUCCESSFUL": "Notunuzu kaydederken bir hatayla karşılaştık, lütfen tekrar deneyin. Eğer sorun devam ediyorsa lütfen WhatsAsena geliştiricileriyle iletişime geçin.",
             "DELETE_USAGE": "Kaydettiğiniz *tüm* notlarınızı siler.",
             "SUCCESSFULLY_DELETED": "Tüm notlarınız başarılı bir şekilde silindi."
+        },
+        "instagram": {
+            "NEED_WORD": "*Herhangi bir instagram kullanıcı adını yazın.*",
+            "USAGE": ".insta <kullanıcıAdı>",
+            "DESC": "İnstagram kullanıcı bilgilerine ulaşır.",
+            "LOADING": "Kullanıcı profili yükleniyor.. lütfen bekleyiniz.",
+            "USERNAME": "Kullanıcı adı",
+            "NAME": "İsim",
+            "BIO": "Biyografi",
+            "FOLLOWERS": "Takipçi",
+            "FOLLOWS": "Takip",
+            "ACCOUNT": "Hesap gizliliği",
+            "PUBLIC": "Herkese açık",
+            "HIDDEN": "Gizli",
+            "NOT_FOUND": "Kullanıcı bulunmadı: "
         }
     }
 }
