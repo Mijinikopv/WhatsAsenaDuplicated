@@ -19,15 +19,15 @@
 
 <p align="center">
   <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Boyutu&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
   <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/codefactor/grade/github/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Kod%20Kalitesi&style=plastic">
+    <img src="https://img.shields.io/codefactor/grade/github/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Code%20Quality&style=plastic">
 
   </a>
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Lisans&style=plastic">
+    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Lisance&style=plastic">
 
   </a>
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
@@ -53,7 +53,8 @@ Açık kaynaklı bir proje olduğundan isteyen herkes yazılımı kopyalayıp ek
 kendi özelleştirdiği biçimde kullanabilir. Ayrıca eklenti (plugin) desteği, 
 orijinal yazılıma kullanıcıların kendi yazdıkları eklentileri yükleyerek istedikleri 
 biçimde kullanmaları özelliğini sağlar.
-Kullanımı tamamen kullanıcının sorumluluğundadır, 
+Kullanımı tamamen kullanıcının sorumluluğundadır.
+Botu amacı dışında kullanmak, açık bir şekilde yasaklanmanıza sebeb olur.
 Asena Userbot yalnızca bir altyapıdır. Nasıl sonradan yüklenen programlarla 
 yapılan işlerden işletim sistemi sorumlu değilse, 
 WhatsAsena da kullanıcıların kullanım amacı ve yönteminden sorumlu değildir.
@@ -66,6 +67,7 @@ The user is responsible for all consequences that may arise from incorrect or mi
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
 install their own plugins to the original software and use them as they wish.
+Using the bot out of purpose will explicitly ban you.
 Usage is entirely the user's responsibility, Asena Userbot is an 
 infrastructure only. Just as the operating system is not responsible 
 for the work done with the programs that are installed later, WhatsAsena 
@@ -107,6 +109,7 @@ the user is responsible.
 `Soon as Possible...`
 
 ### Simple Method
+
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
@@ -124,7 +127,7 @@ $ node bot.js
 
 ##
 
-### ⚒️ Setup Wiki 
+### ⚒️ Setup Wiki - Kurulum [Tam Anlatım]
 [![Setup - Kurulum](https://img.icons8.com/clouds/300/000000/settings.png)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
 
 ##
@@ -142,13 +145,6 @@ If you are concerned about security, you can install it on your own computer. If
 
 ### What does Asena mean?
 [Asena](https://tr.wikipedia.org/wiki/Asena), comes from Turkish mythology. According to Turkish mythology, Asena is a she-wolf that plays an important role.
-
-##
-
-### WhatsAsena Features ✨
-
-Here Are All Commands With Description
-[GistHub](https://gist.github.com/phaticusthiccy/8dfa827a71647e5f659680d75543a748)
 
 ##
 
